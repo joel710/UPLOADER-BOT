@@ -34,7 +34,10 @@ https://github.com/joel710/UPLOADER-BOT
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
-
+<p align="">
+    <a href="https://heroku.com/deploy?template=https://github.com/joel710/UPLOADER-BOT "> <!--- replace your forked link -->
+    <img src="https://www.herokucdn.com/deploy/button.svg" alt="herokudeploy-01" border="0" height="60" width="200"></a>
+</p>
 
 ## 🚸 HEROKU CLI COMMANDS
 
